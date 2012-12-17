@@ -30,3 +30,7 @@ Assuming you intend to use RSpec, you will probably want to pass -T to exlude Te
 omit if you intend on not using RSpec (though I'd like to know why :/)
 
 `rails new myappname -m <thisfile.rb> -T`
+
+If you prefer not to clone/fork/download the template, you can call it directly from the command line
+
+`rails new myappname -m https://github.com/davidmuto/rails-template/blob/master/main-template.rb -T`
