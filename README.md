@@ -33,4 +33,4 @@ omit if you intend on not using RSpec (though I'd like to know why :/)
 
 If you prefer not to clone/fork/download the template, you can call it directly from the command line
 
-`rails new myappname -m https://github.com/davidmuto/rails-template/raw/master/main-template.rb -T`
+`rails new myappname -m https://github.com/pseudomuto/rails-template/raw/master/main-template.rb -T`
